@@ -44,9 +44,6 @@
   <ItemDefinitionGroup>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="readme.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="cpplinq\linq.hpp" />
     <ClInclude Include="cpplinq\linq_cursor.hpp" />
     <ClInclude Include="cpplinq\linq_groupby.hpp" />
